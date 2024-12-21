@@ -1,1 +1,10 @@
 # CS-250-Module-8
+
+# How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+The foundation of successful software development is an understanding of user demands. I begin by asking the appropriate questions to elucidate requirements, getting input from stakeholders, and actively listening to them. One effective approach for this is the creation of user stories. They divide user needs into tiny, achievable goals with an emphasis on providing value. User stories help me make sure the application satisfies expectations and tackles real-world problems by focusing on the user's point of view. Additionally, they serve as a roadmap for feature prioritization, which improves the efficiency and focus of development.
+
+# How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I think it's important to collaborate and iterate when creating programs. My goal is to establish a strong basis with precise specifications, then use feedback to continuously improve the final product. In my workflow, agile procedures like sprint planning, daily standups, and retrospectives are essential. These techniques enable me to maintain organization, adjust to shifting requirements, and produce consistently excellent work. I intend to completely incorporate Agile methods into my projects going forward, with special emphasis on flexibility, frequent delivery, and teamwork.
+
+# What does it mean to be a good team member in software development?
+To me, being a good team member means prioritizing clear communication, collaboration, and respect. It's about supporting teammates, sharing knowledge, and being open to feedback. I value accountability and always strive to meet deadlines while maintaining quality. Additionally, I aim to foster an environment where all voices are heard, as diverse perspectives often lead to better solutions. Software development is a team effort, and I believe that success comes from working together to achieve a common goal.
